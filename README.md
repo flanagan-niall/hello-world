@@ -30,3 +30,7 @@ I edited this!
 
 
     GTG!
+
+# Configuring Git to ignore files.
+    -> In the root of your repo edit .git/info/exclude
+        e.g. .pyc will ignore all pyc files from scm
